@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "empty" "\0"
+            VALUE "FileDescription", "examen_ra3_ramon_mascaro" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "empty" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "empty.exe" "\0"
-            VALUE "ProductName", "empty" "\0"
+            VALUE "InternalName", "examen_ra3_ramon_mascaro" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "examen_ra3_ramon_mascaro.exe" "\0"
+            VALUE "ProductName", "examen_ra3_ramon_mascaro" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
